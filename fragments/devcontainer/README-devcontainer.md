@@ -18,7 +18,7 @@ and interact with your Tanzu cluster:
 - [Docker](https://www.docker.com/products/docker-desktop/) (or [Rancher](https://rancherdesktop.io/)): 
   You need a container runtime. On Linux and Mac, we have tested with Docker. On 
   Windows, both Docker and Rancher have been tested.
-- AMD architecture: The current alpha release of tanzu devcontainer does not yet support
+- AMD64 architecture: The current alpha release of tanzu devcontainer does not yet support
   ARM (e.g. Apple M1 Silicon). 
 
 ## Starting a Container:
